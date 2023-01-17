@@ -2,6 +2,7 @@ package simple.interest.calculator;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
+// Vivek Agrahari
 class SimpleInterestCalci extends JFrame
 {
     JPanel p1,p2;
